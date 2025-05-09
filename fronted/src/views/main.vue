@@ -69,10 +69,20 @@
       console.error("recurrentPage is not a function or display ref is not available.");
     }
       },
-      handleShowLikeSongs() {
+
+      // 显示喜欢的歌曲并展示
+      async handleShowLikeSongs() {
         console.log("showLikeSongs");
-        // console.log('updated currentPage:',this.$refs.display.currentPage);
         this.Status_Code = 1; // 设置状态码为1
+        // 获取1
+        try{
+          const response = await service.get('/getLikes')
+          this.likes = response;
+          console.log('getLikes success')
+        }
+        catch(err){
+         console.error('get likes failed:', err.message)
+        }
         this.currentList = this.likes; // 显示喜欢的歌曲
         this.$nextTick(() => {
         if (this.$refs.displayz && typeof this.$refs.displayz.recurrentPage === 'function') {
