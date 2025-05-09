@@ -1,0 +1,56 @@
+[
+  {
+    "id": 0,
+    "name": "blues.00000.wav",
+    "path": "E:\\GTZA\\GTZAN\\data\\source\\genres_original\\blues\\blues.00000.wav",
+    "like": true
+  },
+  {
+    "id": 1,
+    "name": "blues.00001.wav",
+    "path": "E:\\GTZA\\GTZAN\\data\\source\\genres_original\\blues\\blues.00001.wav",
+    "like": true
+  },
+  {
+    "id": 2,
+    "name": "blues.00002.wav",
+    "path": "E:\\GTZA\\GTZAN\\data\\source\\genres_original\\blues\\blues.00002.wav",
+    "like": true
+  },
+  {
+    "id": 5,
+    "name": "blues.00005.wav",
+    "path": "E:\\GTZA\\GTZAN\\data\\source\\genres_original\\blues\\blues.00005.wav",
+    "like": true
+  },
+  {
+    "id": 17,
+    "name": "blues.00017.wav",
+    "path": "E:\\GTZA\\GTZAN\\data\\source\\genres_original\\blues\\blues.00017.wav",
+    "like": true
+  },
+  {
+    "id": 18,
+    "name": "blues.00018.wav",
+    "path": "E:\\GTZA\\GTZAN\\data\\source\\genres_original\\blues\\blues.00018.wav",
+    "like": true
+  },
+  {
+    "id": 19,
+    "name": "blues.00019.wav",
+    "path": "E:\\GTZA\\GTZAN\\data\\source\\genres_original\\blues\\blues.00019.wav",
+    "like": true
+  },
+  {
+    "id": 21,
+    "name": "blues.00021.wav",
+    "path": "E:\\GTZA\\GTZAN\\data\\source\\genres_original\\blues\\blues.00021.wav",
+    "like": true
+  },
+  {
+    "id": 44,
+    "name": "blues.00044.wav",
+    "path": "E:\\GTZA\\GTZAN\\data\\source\\genres_original\\blues\\blues.00044.wav",
+    "like": true
+  }
+]

@@ -1,0 +1,602 @@
+[
+  {
+    "id": 0,
+    "name": "blues.00000.wav",
+    "path": "E:\\GTZA\\GTZAN\\data\\source\\genres_original\\blues\\blues.00000.wav",
+    "like": true
+  },
+  {
+    "id": 1,
+    "name": "blues.00001.wav",
+    "path": "E:\\GTZA\\GTZAN\\data\\source\\genres_original\\blues\\blues.00001.wav",
+    "like": true
+  },
+  {
+    "id": 2,
+    "name": "blues.00002.wav",
+    "path": "E:\\GTZA\\GTZAN\\data\\source\\genres_original\\blues\\blues.00002.wav",
+    "like": true
+  },
+  {
+    "id": 3,
+    "name": "blues.00003.wav",
+    "path": "E:\\GTZA\\GTZAN\\data\\source\\genres_original\\blues\\blues.00003.wav",
+    "like": false
+  },
+  {
+    "id": 4,
+    "name": "blues.00004.wav",
+    "path": "E:\\GTZA\\GTZAN\\data\\source\\genres_original\\blues\\blues.00004.wav",
+    "like": false
+  },
+  {
+    "id": 5,
+    "name": "blues.00005.wav",
+    "path": "E:\\GTZA\\GTZAN\\data\\source\\genres_original\\blues\\blues.00005.wav",
+    "like": true
+  },
+  {
+    "id": 6,
+    "name": "blues.00006.wav",
+    "path": "E:\\GTZA\\GTZAN\\data\\source\\genres_original\\blues\\blues.00006.wav",
+    "like": false
+  },
+  {
+    "id": 7,
+    "name": "blues.00007.wav",
+    "path": "E:\\GTZA\\GTZAN\\data\\source\\genres_original\\blues\\blues.00007.wav",
+    "like": false
+  },
+  {
+    "id": 8,
+    "name": "blues.00008.wav",
+    "path": "E:\\GTZA\\GTZAN\\data\\source\\genres_original\\blues\\blues.00008.wav",
+    "like": false
+  },
+  {
+    "id": 9,
+    "name": "blues.00009.wav",
+    "path": "E:\\GTZA\\GTZAN\\data\\source\\genres_original\\blues\\blues.00009.wav",
+    "like": false
+  },
+  {
+    "id": 10,
+    "name": "blues.00010.wav",
+    "path": "E:\\GTZA\\GTZAN\\data\\source\\genres_original\\blues\\blues.00010.wav",
+    "like": false
+  },
+  {
+    "id": 11,
+    "name": "blues.00011.wav",
+    "path": "E:\\GTZA\\GTZAN\\data\\source\\genres_original\\blues\\blues.00011.wav",
+    "like": false
+  },
+  {
+    "id": 12,
+    "name": "blues.00012.wav",
+    "path": "E:\\GTZA\\GTZAN\\data\\source\\genres_original\\blues\\blues.00012.wav",
+    "like": false
+  },
+  {
+    "id": 13,
+    "name": "blues.00013.wav",
+    "path": "E:\\GTZA\\GTZAN\\data\\source\\genres_original\\blues\\blues.00013.wav",
+    "like": false
+  },
+  {
+    "id": 14,
+    "name": "blues.00014.wav",
+    "path": "E:\\GTZA\\GTZAN\\data\\source\\genres_original\\blues\\blues.00014.wav",
+    "like": false
+  },
+  {
+    "id": 15,
+    "name": "blues.00015.wav",
+    "path": "E:\\GTZA\\GTZAN\\data\\source\\genres_original\\blues\\blues.00015.wav",
+    "like": false
+  },
+  {
+    "id": 16,
+    "name": "blues.00016.wav",
+    "path": "E:\\GTZA\\GTZAN\\data\\source\\genres_original\\blues\\blues.00016.wav",
+    "like": false
+  },
+  {
+    "id": 17,
+    "name": "blues.00017.wav",
+    "path": "E:\\GTZA\\GTZAN\\data\\source\\genres_original\\blues\\blues.00017.wav",
+    "like": true
+  },
+  {
+    "id": 18,
+    "name": "blues.00018.wav",
+    "path": "E:\\GTZA\\GTZAN\\data\\source\\genres_original\\blues\\blues.00018.wav",
+    "like": true
+  },
+  {
+    "id": 19,
+    "name": "blues.00019.wav",
+    "path": "E:\\GTZA\\GTZAN\\data\\source\\genres_original\\blues\\blues.00019.wav",
+    "like": true
+  },
+  {
+    "id": 20,
+    "name": "blues.00020.wav",
+    "path": "E:\\GTZA\\GTZAN\\data\\source\\genres_original\\blues\\blues.00020.wav",
+    "like": false
+  },
+  {
+    "id": 21,
+    "name": "blues.00021.wav",
+    "path": "E:\\GTZA\\GTZAN\\data\\source\\genres_original\\blues\\blues.00021.wav",
+    "like": true
+  },
+  {
+    "id": 22,
+    "name": "blues.00022.wav",
+    "path": "E:\\GTZA\\GTZAN\\data\\source\\genres_original\\blues\\blues.00022.wav",
+    "like": false
+  },
+  {
+    "id": 23,
+    "name": "blues.00023.wav",
+    "path": "E:\\GTZA\\GTZAN\\data\\source\\genres_original\\blues\\blues.00023.wav",
+    "like": false
+  },
+  {
+    "id": 24,
+    "name": "blues.00024.wav",
+    "path": "E:\\GTZA\\GTZAN\\data\\source\\genres_original\\blues\\blues.00024.wav",
+    "like": false
+  },
+  {
+    "id": 25,
+    "name": "blues.00025.wav",
+    "path": "E:\\GTZA\\GTZAN\\data\\source\\genres_original\\blues\\blues.00025.wav",
+    "like": false
+  },
+  {
+    "id": 26,
+    "name": "blues.00026.wav",
+    "path": "E:\\GTZA\\GTZAN\\data\\source\\genres_original\\blues\\blues.00026.wav",
+    "like": false
+  },
+  {
+    "id": 27,
+    "name": "blues.00027.wav",
+    "path": "E:\\GTZA\\GTZAN\\data\\source\\genres_original\\blues\\blues.00027.wav",
+    "like": false
+  },
+  {
+    "id": 28,
+    "name": "blues.00028.wav",
+    "path": "E:\\GTZA\\GTZAN\\data\\source\\genres_original\\blues\\blues.00028.wav",
+    "like": false
+  },
+  {
+    "id": 29,
+    "name": "blues.00029.wav",
+    "path": "E:\\GTZA\\GTZAN\\data\\source\\genres_original\\blues\\blues.00029.wav",
+    "like": false
+  },
+  {
+    "id": 30,
+    "name": "blues.00030.wav",
+    "path": "E:\\GTZA\\GTZAN\\data\\source\\genres_original\\blues\\blues.00030.wav",
+    "like": false
+  },
+  {
+    "id": 31,
+    "name": "blues.00031.wav",
+    "path": "E:\\GTZA\\GTZAN\\data\\source\\genres_original\\blues\\blues.00031.wav",
+    "like": false
+  },
+  {
+    "id": 32,
+    "name": "blues.00032.wav",
+    "path": "E:\\GTZA\\GTZAN\\data\\source\\genres_original\\blues\\blues.00032.wav",
+    "like": false
+  },
+  {
+    "id": 33,
+    "name": "blues.00033.wav",
+    "path": "E:\\GTZA\\GTZAN\\data\\source\\genres_original\\blues\\blues.00033.wav",
+    "like": false
+  },
+  {
+    "id": 34,
+    "name": "blues.00034.wav",
+    "path": "E:\\GTZA\\GTZAN\\data\\source\\genres_original\\blues\\blues.00034.wav",
+    "like": false
+  },
+  {
+    "id": 35,
+    "name": "blues.00035.wav",
+    "path": "E:\\GTZA\\GTZAN\\data\\source\\genres_original\\blues\\blues.00035.wav",
+    "like": false
+  },
+  {
+    "id": 36,
+    "name": "blues.00036.wav",
+    "path": "E:\\GTZA\\GTZAN\\data\\source\\genres_original\\blues\\blues.00036.wav",
+    "like": false
+  },
+  {
+    "id": 37,
+    "name": "blues.00037.wav",
+    "path": "E:\\GTZA\\GTZAN\\data\\source\\genres_original\\blues\\blues.00037.wav",
+    "like": false
+  },
+  {
+    "id": 38,
+    "name": "blues.00038.wav",
+    "path": "E:\\GTZA\\GTZAN\\data\\source\\genres_original\\blues\\blues.00038.wav",
+    "like": false
+  },
+  {
+    "id": 39,
+    "name": "blues.00039.wav",
+    "path": "E:\\GTZA\\GTZAN\\data\\source\\genres_original\\blues\\blues.00039.wav",
+    "like": false
+  },
+  {
+    "id": 40,
+    "name": "blues.00040.wav",
+    "path": "E:\\GTZA\\GTZAN\\data\\source\\genres_original\\blues\\blues.00040.wav",
+    "like": false
+  },
+  {
+    "id": 41,
+    "name": "blues.00041.wav",
+    "path": "E:\\GTZA\\GTZAN\\data\\source\\genres_original\\blues\\blues.00041.wav",
+    "like": false
+  },
+  {
+    "id": 42,
+    "name": "blues.00042.wav",
+    "path": "E:\\GTZA\\GTZAN\\data\\source\\genres_original\\blues\\blues.00042.wav",
+    "like": false
+  },
+  {
+    "id": 43,
+    "name": "blues.00043.wav",
+    "path": "E:\\GTZA\\GTZAN\\data\\source\\genres_original\\blues\\blues.00043.wav",
+    "like": false
+  },
+  {
+    "id": 44,
+    "name": "blues.00044.wav",
+    "path": "E:\\GTZA\\GTZAN\\data\\source\\genres_original\\blues\\blues.00044.wav",
+    "like": true
+  },
+  {
+    "id": 45,
+    "name": "blues.00045.wav",
+    "path": "E:\\GTZA\\GTZAN\\data\\source\\genres_original\\blues\\blues.00045.wav",
+    "like": false
+  },
+  {
+    "id": 46,
+    "name": "blues.00046.wav",
+    "path": "E:\\GTZA\\GTZAN\\data\\source\\genres_original\\blues\\blues.00046.wav",
+    "like": false
+  },
+  {
+    "id": 47,
+    "name": "blues.00047.wav",
+    "path": "E:\\GTZA\\GTZAN\\data\\source\\genres_original\\blues\\blues.00047.wav",
+    "like": false
+  },
+  {
+    "id": 48,
+    "name": "blues.00048.wav",
+    "path": "E:\\GTZA\\GTZAN\\data\\source\\genres_original\\blues\\blues.00048.wav",
+    "like": false
+  },
+  {
+    "id": 49,
+    "name": "blues.00049.wav",
+    "path": "E:\\GTZA\\GTZAN\\data\\source\\genres_original\\blues\\blues.00049.wav",
+    "like": false
+  },
+  {
+    "id": 50,
+    "name": "blues.00050.wav",
+    "path": "E:\\GTZA\\GTZAN\\data\\source\\genres_original\\blues\\blues.00050.wav",
+    "like": false
+  },
+  {
+    "id": 51,
+    "name": "blues.00051.wav",
+    "path": "E:\\GTZA\\GTZAN\\data\\source\\genres_original\\blues\\blues.00051.wav",
+    "like": false
+  },
+  {
+    "id": 52,
+    "name": "blues.00052.wav",
+    "path": "E:\\GTZA\\GTZAN\\data\\source\\genres_original\\blues\\blues.00052.wav",
+    "like": false
+  },
+  {
+    "id": 53,
+    "name": "blues.00053.wav",
+    "path": "E:\\GTZA\\GTZAN\\data\\source\\genres_original\\blues\\blues.00053.wav",
+    "like": false
+  },
+  {
+    "id": 54,
+    "name": "blues.00054.wav",
+    "path": "E:\\GTZA\\GTZAN\\data\\source\\genres_original\\blues\\blues.00054.wav",
+    "like": false
+  },
+  {
+    "id": 55,
+    "name": "blues.00055.wav",
+    "path": "E:\\GTZA\\GTZAN\\data\\source\\genres_original\\blues\\blues.00055.wav",
+    "like": false
+  },
+  {
+    "id": 56,
+    "name": "blues.00056.wav",
+    "path": "E:\\GTZA\\GTZAN\\data\\source\\genres_original\\blues\\blues.00056.wav",
+    "like": false
+  },
+  {
+    "id": 57,
+    "name": "blues.00057.wav",
+    "path": "E:\\GTZA\\GTZAN\\data\\source\\genres_original\\blues\\blues.00057.wav",
+    "like": false
+  },
+  {
+    "id": 58,
+    "name": "blues.00058.wav",
+    "path": "E:\\GTZA\\GTZAN\\data\\source\\genres_original\\blues\\blues.00058.wav",
+    "like": false
+  },
+  {
+    "id": 59,
+    "name": "blues.00059.wav",
+    "path": "E:\\GTZA\\GTZAN\\data\\source\\genres_original\\blues\\blues.00059.wav",
+    "like": false
+  },
+  {
+    "id": 60,
+    "name": "blues.00060.wav",
+    "path": "E:\\GTZA\\GTZAN\\data\\source\\genres_original\\blues\\blues.00060.wav",
+    "like": false
+  },
+  {
+    "id": 61,
+    "name": "blues.00061.wav",
+    "path": "E:\\GTZA\\GTZAN\\data\\source\\genres_original\\blues\\blues.00061.wav",
+    "like": false
+  },
+  {
+    "id": 62,
+    "name": "blues.00062.wav",
+    "path": "E:\\GTZA\\GTZAN\\data\\source\\genres_original\\blues\\blues.00062.wav",
+    "like": false
+  },
+  {
+    "id": 63,
+    "name": "blues.00063.wav",
+    "path": "E:\\GTZA\\GTZAN\\data\\source\\genres_original\\blues\\blues.00063.wav",
+    "like": false
+  },
+  {
+    "id": 64,
+    "name": "blues.00064.wav",
+    "path": "E:\\GTZA\\GTZAN\\data\\source\\genres_original\\blues\\blues.00064.wav",
+    "like": false
+  },
+  {
+    "id": 65,
+    "name": "blues.00065.wav",
+    "path": "E:\\GTZA\\GTZAN\\data\\source\\genres_original\\blues\\blues.00065.wav",
+    "like": false
+  },
+  {
+    "id": 66,
+    "name": "blues.00066.wav",
+    "path": "E:\\GTZA\\GTZAN\\data\\source\\genres_original\\blues\\blues.00066.wav",
+    "like": false
+  },
+  {
+    "id": 67,
+    "name": "blues.00067.wav",
+    "path": "E:\\GTZA\\GTZAN\\data\\source\\genres_original\\blues\\blues.00067.wav",
+    "like": false
+  },
+  {
+    "id": 68,
+    "name": "blues.00068.wav",
+    "path": "E:\\GTZA\\GTZAN\\data\\source\\genres_original\\blues\\blues.00068.wav",
+    "like": false
+  },
+  {
+    "id": 69,
+    "name": "blues.00069.wav",
+    "path": "E:\\GTZA\\GTZAN\\data\\source\\genres_original\\blues\\blues.00069.wav",
+    "like": false
+  },
+  {
+    "id": 70,
+    "name": "blues.00070.wav",
+    "path": "E:\\GTZA\\GTZAN\\data\\source\\genres_original\\blues\\blues.00070.wav",
+    "like": false
+  },
+  {
+    "id": 71,
+    "name": "blues.00071.wav",
+    "path": "E:\\GTZA\\GTZAN\\data\\source\\genres_original\\blues\\blues.00071.wav",
+    "like": false
+  },
+  {
+    "id": 72,
+    "name": "blues.00072.wav",
+    "path": "E:\\GTZA\\GTZAN\\data\\source\\genres_original\\blues\\blues.00072.wav",
+    "like": false
+  },
+  {
+    "id": 73,
+    "name": "blues.00073.wav",
+    "path": "E:\\GTZA\\GTZAN\\data\\source\\genres_original\\blues\\blues.00073.wav",
+    "like": false
+  },
+  {
+    "id": 74,
+    "name": "blues.00074.wav",
+    "path": "E:\\GTZA\\GTZAN\\data\\source\\genres_original\\blues\\blues.00074.wav",
+    "like": false
+  },
+  {
+    "id": 75,
+    "name": "blues.00075.wav",
+    "path": "E:\\GTZA\\GTZAN\\data\\source\\genres_original\\blues\\blues.00075.wav",
+    "like": false
+  },
+  {
+    "id": 76,
+    "name": "blues.00076.wav",
+    "path": "E:\\GTZA\\GTZAN\\data\\source\\genres_original\\blues\\blues.00076.wav",
+    "like": false
+  },
+  {
+    "id": 77,
+    "name": "blues.00077.wav",
+    "path": "E:\\GTZA\\GTZAN\\data\\source\\genres_original\\blues\\blues.00077.wav",
+    "like": false
+  },
+  {
+    "id": 78,
+    "name": "blues.00078.wav",
+    "path": "E:\\GTZA\\GTZAN\\data\\source\\genres_original\\blues\\blues.00078.wav",
+    "like": false
+  },
+  {
+    "id": 79,
+    "name": "blues.00079.wav",
+    "path": "E:\\GTZA\\GTZAN\\data\\source\\genres_original\\blues\\blues.00079.wav",
+    "like": false
+  },
+  {
+    "id": 80,
+    "name": "blues.00080.wav",
+    "path": "E:\\GTZA\\GTZAN\\data\\source\\genres_original\\blues\\blues.00080.wav",
+    "like": false
+  },
+  {
+    "id": 81,
+    "name": "blues.00081.wav",
+    "path": "E:\\GTZA\\GTZAN\\data\\source\\genres_original\\blues\\blues.00081.wav",
+    "like": false
+  },
+  {
+    "id": 82,
+    "name": "blues.00082.wav",
+    "path": "E:\\GTZA\\GTZAN\\data\\source\\genres_original\\blues\\blues.00082.wav",
+    "like": false
+  },
+  {
+    "id": 83,
+    "name": "blues.00083.wav",
+    "path": "E:\\GTZA\\GTZAN\\data\\source\\genres_original\\blues\\blues.00083.wav",
+    "like": false
+  },
+  {
+    "id": 84,
+    "name": "blues.00084.wav",
+    "path": "E:\\GTZA\\GTZAN\\data\\source\\genres_original\\blues\\blues.00084.wav",
+    "like": false
+  },
+  {
+    "id": 85,
+    "name": "blues.00085.wav",
+    "path": "E:\\GTZA\\GTZAN\\data\\source\\genres_original\\blues\\blues.00085.wav",
+    "like": false
+  },
+  {
+    "id": 86,
+    "name": "blues.00086.wav",
+    "path": "E:\\GTZA\\GTZAN\\data\\source\\genres_original\\blues\\blues.00086.wav",
+    "like": false
+  },
+  {
+    "id": 87,
+    "name": "blues.00087.wav",
+    "path": "E:\\GTZA\\GTZAN\\data\\source\\genres_original\\blues\\blues.00087.wav",
+    "like": false
+  },
+  {
+    "id": 88,
+    "name": "blues.00088.wav",
+    "path": "E:\\GTZA\\GTZAN\\data\\source\\genres_original\\blues\\blues.00088.wav",
+    "like": false
+  },
+  {
+    "id": 89,
+    "name": "blues.00089.wav",
+    "path": "E:\\GTZA\\GTZAN\\data\\source\\genres_original\\blues\\blues.00089.wav",
+    "like": false
+  },
+  {
+    "id": 90,
+    "name": "blues.00090.wav",
+    "path": "E:\\GTZA\\GTZAN\\data\\source\\genres_original\\blues\\blues.00090.wav",
+    "like": false
+  },
+  {
+    "id": 91,
+    "name": "blues.00091.wav",
+    "path": "E:\\GTZA\\GTZAN\\data\\source\\genres_original\\blues\\blues.00091.wav",
+    "like": false
+  },
+  {
+    "id": 92,
+    "name": "blues.00092.wav",
+    "path": "E:\\GTZA\\GTZAN\\data\\source\\genres_original\\blues\\blues.00092.wav",
+    "like": false
+  },
+  {
+    "id": 93,
+    "name": "blues.00093.wav",
+    "path": "E:\\GTZA\\GTZAN\\data\\source\\genres_original\\blues\\blues.00093.wav",
+    "like": false
+  },
+  {
+    "id": 94,
+    "name": "blues.00094.wav",
+    "path": "E:\\GTZA\\GTZAN\\data\\source\\genres_original\\blues\\blues.00094.wav",
+    "like": false
+  },
+  {
+    "id": 95,
+    "name": "blues.00095.wav",
+    "path": "E:\\GTZA\\GTZAN\\data\\source\\genres_original\\blues\\blues.00095.wav",
+    "like": false
+  },
+  {
+    "id": 96,
+    "name": "blues.00096.wav",
+    "path": "E:\\GTZA\\GTZAN\\data\\source\\genres_original\\blues\\blues.00096.wav",
+    "like": false
+  },
+  {
+    "id": 97,
+    "name": "blues.00097.wav",
+    "path": "E:\\GTZA\\GTZAN\\data\\source\\genres_original\\blues\\blues.00097.wav",
+    "like": false
+  },
+  {
+    "id": 98,
+    "name": "blues.00098.wav",
+    "path": "E:\\GTZA\\GTZAN\\data\\source\\genres_original\\blues\\blues.00098.wav",
+    "like": false
+  },
+  {
+    "id": 99,
+    "name": "blues.00099.wav",
+    "path": "E:\\GTZA\\GTZAN\\data\\source\\genres_original\\blues\\blues.00099.wav",
+    "like": false
+  }
+]
